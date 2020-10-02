@@ -3,8 +3,8 @@ title: Naomi Johnson
 email: Naomi.Johnson@glasgow.ac.uk
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Illustation - Scientific Conceptualisation"
+keywords: "illustration, science art, outreach, stem"
+skills: "Illustation - Scientific Conceptualisation - Cartoonist"
 meta_author: Johnson Naomi
 
 # Google webmaster tools
@@ -25,9 +25,9 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 31452C #31452C
-  primary-rgb: "49,69,44" #"0.19,0.27,0.17"
-  secondary: 628567 #628567
+  primary: 628567 #628567
+  primary-rgb: "98,133,103" #"0.2632,0,0.2256,0.4784"
+  secondary: 31452C #31452C
   secondary-dark: 233140 #A2122F
 
 # Footer settings
@@ -40,15 +40,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://twitter.com/nabjohnson
+  - title: linkedin
+    url: https://www.linkedin.com/in/naomi-johnson-448276b9/
+  - title: instagram - professional work
+    url: https://www.instagram.com/croningroup/
+  - title: instagram - personal work
+    url: https://www.instagram.com/nemalopod/
+  - title: behance
+    url: https://www.behance.net/naomijohnsonart
 
 # Postal address (add as many lines as necessary)
 address:
