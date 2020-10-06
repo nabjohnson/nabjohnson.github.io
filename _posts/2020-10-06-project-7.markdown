@@ -1,0 +1,19 @@
+---
+layout: default
+modal-id: 7
+date: 2020-10-06
+img: maxwellhouse.png
+alt: image-alt
+project-date: July 2020
+client: Personal Work
+category: Pleinair
+description: Artwork created during daily lockdown walks.
+---
+
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact 
