@@ -7,5 +7,5 @@ alt: image-alt
 project-date: August 2019
 client: Cronin Group
 category: Web Development
-description: Understanding the Origins of Life: This rough storyboard describes how questions about the origin of life are researched in Cronin Group at the University of Glasgow.
+description: Understanding the Origins of Life. This rough storyboard describes how questions about the origin of life are researched in Cronin Group at the University of Glasgow.
 ---
