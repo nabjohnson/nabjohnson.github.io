@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2020-10-06
-img: maxwellhouse.png
+img: Qi.jpg
 alt: image-alt
 project-date: July 2020
 client: Personal Work
