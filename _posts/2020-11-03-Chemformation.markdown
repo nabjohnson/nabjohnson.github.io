@@ -2,7 +2,7 @@
 layout: default
 modal-id: 15
 date: 2020-11-03
-img: Chemformation.jpg
+img: Chemformation.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
