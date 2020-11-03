@@ -2,7 +2,7 @@
 layout: default
 modal-id: 11
 date: 2020-11-03
-img: Geoff Group.png
+img: Geoff Group.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
